@@ -8,5 +8,9 @@ namespace oop_assignment_2_2025_75225.Questions
 {
     internal class ExamQuestion_2
     {
+        internal static void Run()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
