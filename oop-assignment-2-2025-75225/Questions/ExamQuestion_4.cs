@@ -6,7 +6,5 @@ using System.Threading.Tasks;
 
 namespace oop_assignment_2_2025_75225.Questions
 {
-    internal class ExamQuestion_4
-    {
-    }
+   //No input
 }
